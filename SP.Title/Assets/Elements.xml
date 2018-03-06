@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+<Module Name="Assets" Url="SiteAssets">
+<File Path="Assets\css\colorpicker.css" Url="Assets/css/colorpicker.css" />
+<File Path="Assets\css\layout.css" Url="Assets/css/layout.css" />
+<File Path="Assets\images\blank.gif" Url="Assets/images/blank.gif" />
+<File Path="Assets\images\colorpicker_background.png" Url="Assets/images/colorpicker_background.png" />
+<File Path="Assets\images\colorpicker_hex.png" Url="Assets/images/colorpicker_hex.png" />
+<File Path="Assets\images\colorpicker_hsb_b.png" Url="Assets/images/colorpicker_hsb_b.png" />
+<File Path="Assets\images\colorpicker_hsb_h.png" Url="Assets/images/colorpicker_hsb_h.png" />
+<File Path="Assets\images\colorpicker_hsb_s.png" Url="Assets/images/colorpicker_hsb_s.png" />
+<File Path="Assets\images\colorpicker_indic.gif" Url="Assets/images/colorpicker_indic.gif" />
+<File Path="Assets\images\colorpicker_overlay.png" Url="Assets/images/colorpicker_overlay.png" />
+<File Path="Assets\images\colorpicker_rgb_b.png" Url="Assets/images/colorpicker_rgb_b.png" />
+<File Path="Assets\images\colorpicker_rgb_g.png" Url="Assets/images/colorpicker_rgb_g.png" />
+<File Path="Assets\images\colorpicker_rgb_r.png" Url="Assets/images/colorpicker_rgb_r.png" />
+<File Path="Assets\images\colorpicker_select.gif" Url="Assets/images/colorpicker_select.gif" />
+<File Path="Assets\images\colorpicker_submit.png" Url="Assets/images/colorpicker_submit.png" />
+<File Path="Assets\images\custom_background.png" Url="Assets/images/custom_background.png" />
+<File Path="Assets\images\custom_hex.png" Url="Assets/images/custom_hex.png" />
+<File Path="Assets\images\custom_hsb_b.png" Url="Assets/images/custom_hsb_b.png" />
+<File Path="Assets\images\custom_hsb_h.png" Url="Assets/images/custom_hsb_h.png" />
+<File Path="Assets\images\custom_hsb_s.png" Url="Assets/images/custom_hsb_s.png" />
+<File Path="Assets\images\custom_indic.gif" Url="Assets/images/custom_indic.gif" />
+<File Path="Assets\images\custom_rgb_b.png" Url="Assets/images/custom_rgb_b.png" />
+<File Path="Assets\images\custom_rgb_g.png" Url="Assets/images/custom_rgb_g.png" />
+<File Path="Assets\images\custom_rgb_r.png" Url="Assets/images/custom_rgb_r.png" />
+<File Path="Assets\images\custom_submit.png" Url="Assets/images/custom_submit.png" />
+<File Path="Assets\images\select.png" Url="Assets/images/select.png" />
+<File Path="Assets\images\select2.png" Url="Assets/images/select2.png" />
+<File Path="Assets\images\slider.png" Url="Assets/images/slider.png" />
+<File Path="Assets\js\colorpicker.js" Url="Assets/js/colorpicker.js" />
+<File Path="Assets\js\eye.js" Url="Assets/js/eye.js" />
+<File Path="Assets\js\jquery.js" Url="Assets/js/jquery.js" />
+<File Path="Assets\js\layout.js" Url="Assets/js/layout.js" />
+<File Path="Assets\js\utils.js" Url="Assets/js/utils.js" />
+<File Path="Assets\InitColorPicker.js" Url="Assets/InitColorPicker.js" />
+</Module>
+</Elements>

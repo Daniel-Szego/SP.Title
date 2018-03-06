@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Assets\" Type="ElementManifest" />
+    <ProjectItemFile Source="css\colorpicker.css" Target="Assets\css\" Type="ElementFile" />
+    <ProjectItemFile Source="css\layout.css" Target="Assets\css\" Type="ElementFile" />
+    <ProjectItemFile Source="images\blank.gif" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_background.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_hex.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_hsb_b.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_hsb_h.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_hsb_s.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_indic.gif" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_overlay.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_rgb_b.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_rgb_g.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_rgb_r.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_select.gif" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\colorpicker_submit.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_background.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_hex.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_hsb_b.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_hsb_h.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_hsb_s.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_indic.gif" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_rgb_b.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_rgb_g.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_rgb_r.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\custom_submit.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\select.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\select2.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="images\slider.png" Target="Assets\images\" Type="ElementFile" />
+    <ProjectItemFile Source="js\colorpicker.js" Target="Assets\js\" Type="ElementFile" />
+    <ProjectItemFile Source="js\eye.js" Target="Assets\js\" Type="ElementFile" />
+    <ProjectItemFile Source="js\jquery.js" Target="Assets\js\" Type="ElementFile" />
+    <ProjectItemFile Source="js\layout.js" Target="Assets\js\" Type="ElementFile" />
+    <ProjectItemFile Source="js\utils.js" Target="Assets\js\" Type="ElementFile" />
+    <ProjectItemFile Source="InitColorPicker.js" Target="Assets\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

@@ -1,0 +1,12 @@
+﻿<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b812acd6-d38b-421b-bec5-b4b37a0bc151" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SP.Title.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="SP.Title.TitleWebpart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SP.Title_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
